@@ -20,7 +20,6 @@ h1.titulo {
 }
 
 h2.subtitulos {
-    
     font-family: 'Times New Roman';
     font-style: normal;
     color:#005677;
@@ -100,34 +99,26 @@ h2.subtitulos2 {
 }
 
 .footer {
-    background-color:#005677 ;
+    text-align: center;
     width: 100%;
     height: 37px;
     left: 0px;
     top: 987px;
+
+background: #005677;
+
 }
 
-#footer1 {
+.roxana {
     text-align: center;
     font-family: 'Times New Roman';
+    color: #FFFFFF;
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
-    line-height: 200%;
-    color: #FFFFFF;
-}
-
-#instagram {
-    width: 20px;
-    height: 20px;
-    left: 772px;
-    top: 1500px;
-}
-
-#linkedin {
-    width: 20px;
-    height: 20px;
-    left: 818px;
-    top: 996px;
+    line-height: 180%;
 
 }
+
+
+
